@@ -1,7 +1,7 @@
 # 🌾 Digital Twin in Precision Agriculture  
 **A Web-Based System for 3D Point Cloud Multi-Vegetative Index Visualization and Real-Time Sensor Data**
 
-[**📄 Read the Paper**]([https://doi.org/...](https://doi.org/10.1016/j.softx.2025.102443)) | [**🌐 View Demo**](https://berca.uv.es/viewer/demo/elpuig.html)
+[**📄 Read the Paper**](https://doi.org/10.1016/j.softx.2025.102443) | [**🌐 View Demo**](https://berca.uv.es/viewer/demo/elpuig.html)
 
 ## 📌 About the Project
 
@@ -82,12 +82,12 @@ If you use this codebase or system in your research, please cite our paper (not 
 
 ```
 @article{SalcedoNavarro2023DigitalTwin,
-  title={Digital Twin in Precision Agriculture: A Web-Based System for 3D Point Cloud Multi-Vegetative Index Visualization and Real-Time Sensor Data},
+  title={A scalable web system for multi-index 3D point cloud visualization and real-time sensor monitoring in precision agriculture},
   author={Salcedo-Navarro, Andoni and Montalban-Faet, Guillem and Segura-Garcia, Jaume and Garcia-Pineda, Miguel},
-  journal={},
-  doi={},
+  journal={SoftwareX},
+  doi={10.1016/j.softx.2025.102443},
   year={2025},
-  volume={00},
+  volume={32},
 }
 ```
 
