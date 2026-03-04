@@ -6,7 +6,7 @@
 ## 📌 About the Project
 
 This repository contains the source code for the system presented in our paper:  
-**"Digital Twin in Precision Agriculture: A Web-Based System for 3D Point Cloud Multi-Vegetative Index Visualization and Real-Time Sensor Data"**  
+[**"Digital Twin in Precision Agriculture: A Web-Based System for 3D Point Cloud Multi-Vegetative Index Visualization and Real-Time Sensor Data"**](https://doi.org/10.1016/j.softx.2025.102443)  
 (Universitat de València, 2025)
 
 The system introduces a comprehensive web platform to monitor agricultural fields using a geolocated digital twin, 3D point cloud visualization, and real-time sensor data integration.
@@ -96,7 +96,7 @@ If you use this codebase or system in your research, please cite our paper (not 
 - [Andoni Salcedo-Navarro](https://github.com/AndoniSalcedo)
 - Guillem Montalban-Faet
 - [Jaume Segura-Garcia](https://github.com/jausegar)
-- Miguel Garcia-Pineda
+- [Miguel Garcia-Pineda](https://github.com/migarpi)
 
 ## 🧑‍🔬 Contact
 
